@@ -1,13 +1,13 @@
-# 🍔 Quick Byte UI – Flutter  
+# 🍔 Quick Bite UI – Flutter  
 
-This is a Flutter project showcasing **two UI screens** of the **Quick Byte App** inspired by a design on [Dribbble](https://dribbble.com/).  
+This is a Flutter project showcasing **two UI screens** of the **Quick Bite App** inspired by a design on [Dribbble](https://dribbble.com/).  
 It’s part of my **Flutter learning journey**, focusing on building beautiful and responsive UI.  
 
 ---
 
 ## ✨ Features
 - 📱 Two screens UI design  
-- 🎨 Inspired by Dribbble’s Quick Byte design  - https://dribbble.com/shots/23365286-Quick-Bite-Food-ordering-app
+- 🎨 Inspired by Dribbble’s Quick Bite design  - https://dribbble.com/shots/23365286-Quick-Bite-Food-ordering-app
 - ⚡ Built using **Flutter** with clean and reusable widgets  
 - 🚀 Beginner-friendly structure for practice  
 
@@ -49,8 +49,8 @@ lib/
 
 ### 2️⃣ Clone the repository
 ```bash
-git clone https://github.com/AnweshaPal26/Quick_Byte-FlutterUI.git
-cd quick-byte-ui
+git clone https://github.com/AnweshaPal26/Quick_Bite-FlutterUI.git
+cd quick-bite-ui
 ```
 
 ### 3️⃣ Install dependencies
