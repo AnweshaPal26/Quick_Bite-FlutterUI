@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:quick_byte/screens/dashboard.dart';
 
 void main() {
   runApp(const App());
@@ -9,6 +10,6 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: Scaffold());
+    return MaterialApp(home: DashboardScreen());
   }
 }
