@@ -11,6 +11,7 @@ class Recommendedlist extends StatelessWidget {
       child: ListView.builder(
         scrollDirection: Axis.horizontal,
         itemCount: recommendedList.length,
+        padding: const EdgeInsets.symmetric(horizontal: 20),
         itemBuilder: (context, index) {
           final food = recommendedList[index];
           return Container(

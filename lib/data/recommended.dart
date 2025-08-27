@@ -7,3 +7,10 @@ final List<Food> recommendedList = [
   const Food(name: "Salad", price: "\$4", image: "assets/images/salad.png"),
   const Food(name: "Ramen", price: "\$3", image: "assets/images/ramen.png"),
 ];
+
+const options = ["All Foods", "Favourties", "Low calorie"];
+
+final List<Food> allFoodList = [
+  const Food(name: "Salad", price: "\$4", image: "assets/images/salad.png"),
+  const Food(name: "Ramen", price: "\$3", image: "assets/images/ramen.png"),
+];
