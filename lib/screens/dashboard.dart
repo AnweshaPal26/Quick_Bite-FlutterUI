@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quick_byte/widgets/address.dart';
+import 'package:quick_byte/widgets/all_food_list.dart';
 import 'package:quick_byte/widgets/choice.dart';
 import 'package:quick_byte/widgets/recommended_list.dart';
 import 'package:quick_byte/widgets/search.dart';
@@ -124,6 +125,7 @@ class DashboardScreen extends StatelessWidget {
                   const SizedBox(height: 15),
                   Choice(),
                   const SizedBox(height: 15),
+                  AllFoodList(),
                 ],
               ),
             ),
