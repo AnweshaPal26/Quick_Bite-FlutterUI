@@ -15,12 +15,10 @@ It’s part of my **Flutter learning journey**, focusing on building beautiful a
 
 ## 📸 Screenshots  
 ### Home Screen  
-<img src="assets/screenshots/home.png" width="300"/>
-<img src="assets/screenshots/product.png" width="300"/>
-
-
-
-
+<p align="center">
+  <img src="assets/screenshots/home.png" width="300"/>
+  <img src="assets/screenshots/product.png" width="300"/>
+</p>
 
 ---
 
