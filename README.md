@@ -14,6 +14,8 @@ It’s part of my **Flutter learning journey**, focusing on building beautiful a
 ---
 
 ## 📸 Screenshots  
+### Home Screen  
+<img src="assets/screenshots/home.png" width="300"/>
 
 
 
