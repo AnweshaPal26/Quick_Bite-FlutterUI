@@ -1,0 +1,10 @@
+# Tell GitHub Linguist to ignore platform-specific auto-generated code
+android/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+
+# Only count Dart files inside lib/ as the main language
+lib/** linguist-detectable=true
